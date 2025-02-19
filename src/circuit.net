@@ -1,0 +1,3 @@
+V1 1 0 5        // Voltage source (5V) between node 1 and ground (0)
+R1 1 2 100      // Resistor (100Ω) between nodes 1 and 2
+R2 2 0 200      // Resistor (200Ω) between node 2 and ground
